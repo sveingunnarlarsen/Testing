@@ -1,0 +1,20 @@
+{
+	"id": "136ab4ad-6231-ef11-9f20-b03cdca73631",
+	"createdAt": "2024-06-23T13:15:37.266Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "testTs",
+	"ver": "24.06.23.1528",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.ts",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "typescript",
+	"jsscriptGroup": "bd6d64a7-6231-ef11-9f20-b03cdca73631",
+	"package": "eaead365-662e-ef11-9f20-b03cdca73631"
+}

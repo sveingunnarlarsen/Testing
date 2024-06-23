@@ -1,0 +1,77 @@
+{
+	"id": "eaead365-662e-ef11-9f20-b03cdca73631",
+	"createdAt": "2024-06-19T18:04:41.170Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/Testing.git"
+	},
+	"name": "Testing",
+	"description": null,
+	"ver": "24.06.23.1529",
+	"enableCICD": true,
+	"excludeTemplateFiles": true,
+	"roles": [],
+	"apps": [
+		{
+			"id": "f1387cbc-662e-ef11-9f20-b03cdca73631",
+			"application": "test_cockpit_app",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "eaead365-662e-ef11-9f20-b03cdca73631"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "136ab4ad-6231-ef11-9f20-b03cdca73631",
+			"name": "testTs",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "bd6d64a7-6231-ef11-9f20-b03cdca73631",
+			"name": "Test",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "eefd12aa-662e-ef11-9f20-b03cdca73631",
+			"description": "Test",
+			"name": "Test App"
+		}
+	],
+	"category": [
+		{
+			"id": "8ca97375-662e-ef11-9f20-b03cdca73631",
+			"description": null,
+			"name": "Test Custom Tiles"
+		}
+	],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
